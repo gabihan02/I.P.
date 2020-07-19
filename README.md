@@ -1,2 +1,4 @@
 # I.P.
-Listas da matéria: Introdução à Programação
+Introdução à Programação
+
+Listas de I.P. que foram realizadas durante o semestre
